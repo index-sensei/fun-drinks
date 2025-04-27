@@ -4,43 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sip the Joy: The Magic of Fun Drinks</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            color: #333;
-        }
-        h1, h2 {
-            color: #2c3e50;
-        }
-        h1 {
-            font-size: 2.5em;
-            text-align: center;
-            margin-bottom: 20px;
-        }
-        h2 {
-            font-size: 1.8em;
-            margin-top: 30px;
-        }
-        p {
-            margin: 15px 0;
-        }
-        a {
-            color: #e74c3c;
-            text-decoration: none;
-            font-weight: bold;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        .cta {
-            text-align: center;
-            margin-top: 30px;
-        }
-    </style>
 </head>
 <body>
     <header>
@@ -62,7 +25,7 @@
         </section>
         <section>
             <h2>Crafting the Perfect Fun Drink</h2>
-            <p>Ready to create your own fun drink masterpiece? The process is as enjoyable as the result. Start with a base—something simple like sparkling water, fruit juice, or herbal tea. From there, let your creativity run wild. Fresh fruits, herbs, and spices are your best friends when it comes to building bold, exciting flavors. Muddle some fresh mint for a mojito-inspired mocktail, toss in slices of citrus for a zesty kick, or blend frozen berries for a smoothie-like texture. Want to add a little pizzazz? A splash of grenadine, a drizzle of honey, or a pinch of edible glitter can elevate your drink from ordinary to extraordinary.</p>
+            <p>Ready to create your own fun drink masterpiece? The process is as enjoyable as the result. Start with a base—something simple like sparkling water, fruit juice, or herbal tea. From there, let your creativity run wild. Fresh fruits, herbs, and spices are your best friends when it comes to building bold, exciting flavors. Muddle some fresh mint for a mojito W inspired mocktail, toss in slices of citrus for a zesty kick, or blend frozen berries for a smoothie-like texture. Want to add a little pizzazz? A splash of grenadine, a drizzle of honey, or a pinch of edible glitter can elevate your drink from ordinary to extraordinary.</p>
             <p>Presentation is key when it comes to fun drinks. After all, half the fun is in the visuals! Serve your creation in a quirky glass, add a colorful straw, or garnish with a slice of fruit, a sprig of rosemary, or even a candy cane for a holiday twist. If you’re feeling extra festive, rim the glass with sugar, salt, or crushed candy for an added layer of fun. The goal is to make every sip feel like a special occasion, whether you’re sipping solo or toasting with a crowd.</p>
             <p>For those who love a little fizz, carbonation is your secret weapon. Sparkling water, soda, or even a splash of tonic can transform a flat drink into a bubbly delight. If you’re catering to a crowd, consider setting up a DIY drink station where guests can mix and match their own creations. Provide a variety of juices, sodas, fruits, and garnishes, and watch as everyone becomes their own mixologist. It’s a surefire way to spark laughter and creativity.</p>
         </section>
@@ -79,7 +42,7 @@
         <section>
             <h2>A Call to Sip and Celebrate</h2>
             <p>Let’s raise a glass to fun drinks and the magic they bring. Whether you’re crafting a dazzling mocktail for a party, sipping a fruity smoothie on a lazy afternoon, or toasting with a warm mug of cider by the fire, these beverages are a reminder to live boldly, love deeply, and savor every moment. So go ahead—mix up something fun, share it with someone you care about, and let the good times flow.</p>
-            <p class="cta">Ready to dive deeper into the world of fun drinks? Discover recipes, tips, and more to keep your glass full of inspiration. <a href="https://lhinspire.com/fun-refreshing-summer-drinks-for-easy-home-entertaining/">Click here to explore!</a></p>
+            <p>Ready to dive deeper into the world of fun drinks? Discover recipes, tips, and more to keep your glass full of inspiration. <a href="https://lhinspire.com/fun-refreshing-summer-drinks-for-easy-home-entertaining/">Click here to explore!</a></p>
         </section>
     </main>
 </body>
