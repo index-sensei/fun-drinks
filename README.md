@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sip the Joy: The Magic of Fun Drinks</title>
 </head>
 <body>
     <header>
